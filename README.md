@@ -15,18 +15,18 @@ This repository tracks my progress as I implement concepts from *Transformers fo
 | **Topic**                          | **Status** | **Notebook Link** | **Notes** |
 |------------------------------------|------------|-------------------|-----------|
 | Transformer Architecture           |    ✅      |                   | Learned how self-attention works and why it’s so powerful. Struggled with positional encoding at first, but it clicked after visualizing it. |
-| Hugging Face Models                |      ✅       |                   | Explored pre-trained models like BERT and GPT. Hugging Face’s API is a game-changer for quick prototyping. |
-| Attention Mechanisms               |         ✅    |                   | Implemented multi-head attention from scratch. It’s fascinating how it captures contextual relationships. |
+| Hugging Face Models                |   ✅       |                   | Explored pre-trained models like BERT and GPT. Hugging Face’s API is a game-changer for quick prototyping. |
+| Attention Mechanisms               |      ✅    |                   | Implemented multi-head attention from scratch. It’s fascinating how it captures contextual relationships. |
 
 ---
 
 ### **2. NLP Applications**
 | **Topic**                          | **Status** | **Notebook Link** | **Notes** |
 |------------------------------------|------------|-------------------|-----------|
-| Fine-Tuning BERT                   |            |                   | Fine-tuned BERT on a sentiment analysis task. Took some time to understand the data preprocessing pipeline. |
-| Machine Translation (Google Trax)  |            |                   | Built a translation model using Google Trax. The hardest part was preprocessing the WMT dataset. |
-| Text Summarization with T5         |            |                   | Used T5 for summarization. It’s amazing how well it works out of the box. |
-| Semantic Role Labeling with GPT-4  |            |                   | Experimented with GPT-4 for SRL. It’s surprisingly good at understanding complex sentences. |
+| Fine-Tuning BERT                   |       ✅     |                   | Fine-tuned BERT on a sentiment analysis task. Took some time to understand the data preprocessing pipeline. |
+| Machine Translation (Google Trax)  |       ✅     |                   | Built a translation model using Google Trax. The hardest part was preprocessing the WMT dataset. |
+| Text Summarization with T5         |      ✅      |                   | Used T5 for summarization. It’s amazing how well it works out of the box. |
+| Semantic Role Labeling with GPT-4  |      ✅      |                   | Experimented with GPT-4 for SRL. It’s surprisingly good at understanding complex sentences. |
 
 ---
 
@@ -39,7 +39,7 @@ This repository tracks my progress as I implement concepts from *Transformers fo
 
 ---
 
-## **4. Computer Vision with Transformers**
+### **4. Computer Vision with Transformers**
 | **Topic**                          | **Status** | **Notebook Link** | **Notes** |
 |------------------------------------|------------|-------------------|-----------|
 | Vision Transformers (ViT)          |            |                   | Implemented ViT for image classification. It’s incredible how transformers work for both text and images. |
@@ -48,7 +48,7 @@ This repository tracks my progress as I implement concepts from *Transformers fo
 
 ---
 
-## **5. Advanced Topics**
+### **5. Advanced Topics**
 | **Topic**                          | **Status** | **Notebook Link** | **Notes** |
 |------------------------------------|------------|-------------------|-----------|
 | Tokenizers and Embeddings          |            |                   | Explored WordPiece and Byte-Pair Encoding. Tokenization is more nuanced than I thought. |
@@ -57,7 +57,7 @@ This repository tracks my progress as I implement concepts from *Transformers fo
 
 ---
 
-## **6. Tools and Libraries**
+### **6. Tools and Libraries**
 | **Topic**                          | **Status** | **Notebook Link** | **Notes** |
 |------------------------------------|------------|-------------------|-----------|
 | Hugging Face AutoTrain             |            |                   | Used AutoTrain to fine-tune a model without writing code. Great for quick experiments. |
